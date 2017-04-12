@@ -1,0 +1,5 @@
+Nom
+PV
+Mana
+Vitesse
+<Liste des compétences>
