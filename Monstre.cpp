@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Monstre.h"
 
 using namespace std;
