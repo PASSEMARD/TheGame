@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Interface.h"
 
 using namespace std;
